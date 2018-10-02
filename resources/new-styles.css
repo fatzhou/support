@@ -1,0 +1,22 @@
+.guide-box{ clear:both; border-bottom:1px dashed #e5e9eb; display:inline-block; width:100%; height:auto; padding:50px 0;}
+.guide-box-nobotom{border-bottom: none;}
+
+.guide-box-text{ width:65%; float:left;}
+.guide-box-img{ width:35%; float:right;}
+.guide-title h3{ font-size:20px; line-height:28px;color:#333; margin-bottom:30px; font-weight:normal;}
+.guide-title span{ font-size:20px; line-height:28px; font-weight:bold; margin-bottom:15px; display:inline-block;}
+
+.guide-box-img img{float:right; border:1px solid #f0f0f0;}
+
+.guide-note{ background-color:#f9fafc; border:1px solid #e9e9e9;  padding:15px; width:100%; margin:40px 0;}
+.guide-note p{color:#878787; font-size:13px; line-height:28px;}
+p.font-red-intense{ color:#e35b5a;}
+
+.guide-box ol{padding-left:40px;  margin:30px 0; }
+.guide-box ol li{ margin-bottom:12px;color:#666868;}
+.guide-box ul li{ margin-bottom:20px;color:#666868;}
+
+.green-btn{ background-color:#9cc051; color: #ffffff !important; width:auto; height: auto; display:inline-block; padding:10px 20px; border-radius: 6px; margin:10px 0;}
+.green-btn:link , .button-primary:visited , .button-primary:active {color: #ffffff !important;}
+
+.guide-box img{border:1px solid #e7e7e7;}
